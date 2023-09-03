@@ -1,0 +1,129 @@
+
+---Downloaded files---
+The import files for: Demo 1 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://127.0.0.1/bulgogi
+Data file = C:\xampp\htdocs\bulgogi\wp-content\plugins\themefarmer-companion/theme-files/demos/newstore/newstore-wordpress.xml
+Widget file = C:\xampp\htdocs\bulgogi\wp-content\plugins\themefarmer-companion/theme-files/demos/newstore/newstore-widgets.wie
+Customizer file = C:\xampp\htdocs\bulgogi\wp-content\plugins\themefarmer-companion/theme-files/demos/newstore/newstore-customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_brands Brand 1
+[WARNING] Failed to import pa_brands Brand 2
+[WARNING] Failed to import pa_brands Brand 3
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Jewelry
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Men
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Parent category
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_cat shoes
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Toy Store
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Watch
+[WARNING] Failed to import product_cat Women
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Child Category
+[WARNING] Failed to import product_cat Child of Child Category
+[ERROR] Failed to import "newstore-demo-4" (Media)
+
+
+---Importing widgets---
+Sidebar : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+FrontPage Top Widget Area : 
+
+newstore_woocommerce_products - No Title - Site does not support widget
+
+WooCommerce Sidebar : 
+
+Ajax Product Search - No Title - Widget already exists
+Block - No Title - Widget already exists
+woocommerce_layered_nav - Filter by Color - Site does not support widget
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+woocommerce_layered_nav - Filter by Brands - Site does not support widget
+woocommerce_layered_nav - Filter by Size - Site does not support widget
+Block - No Title - Widget already exists
+
+Product Sidebar : 
+
+Image - No Title - Widget already exists
+woocommerce_recently_viewed_products - Recently Viewed Products - Site does not support widget
+Wishlist - Wishlist - Widget already exists
+woocommerce_product_tag_cloud - Product tags - Site does not support widget
+
+FrontPage Products Widget Area : 
+
+newstore_woocommerce_products - Latest Products - Site does not support widget
+newstore_woocommerce_products - Featured Products - Site does not support widget
+newstore_woocommerce_products - On-Sale Products - Site does not support widget
+
+FrontPage Product Widget Area Column  : 
+
+woocommerce_products - Highest selling - Site does not support widget
+woocommerce_products - Random Products - Site does not support widget
+woocommerce_products - Lowest Price - Site does not support widget
+woocommerce_products - Highest Price - Site does not support widget
+
+Footer Widget Area Column 1 : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+Footer Widget Area Column 2 : 
+
+Navigation Menu - Site Links - Widget already exists
+
+Footer Widget Area Column 3 : 
+
+Block - No Title - Widget already exists
+
+Footer Widget Area Column 4 : 
+
+Image - No Title - Widget already exists
+Image - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+To make changes on Front Page go to Appearance -&gt; Customize

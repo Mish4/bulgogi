@@ -1,0 +1,85 @@
+
+---Archivos descargados---
+Los archivos de importación para Demo 1 ¡han sido descargados correctamente!
+Tiempo de ejecución máximo inicial = 120
+Información de archivos:
+URL del sitio = http://127.0.0.1/bulgogi
+Archivo de datos = C:\xampp\htdocs\bulgogi\wp-content\plugins\themefarmer-companion/theme-files/demos/newstore/newstore-wordpress.xml
+Archivo de widget = C:\xampp\htdocs\bulgogi\wp-content\plugins\themefarmer-companion/theme-files/demos/newstore/newstore-widgets.wie
+Archivo del personalizador = C:\xampp\htdocs\bulgogi\wp-content\plugins\themefarmer-companion/theme-files/demos/newstore/newstore-customizer.dat
+Archivos de Redux:
+ ¡no definido!
+
+---Importando los widgets---
+Barra lateral : 
+
+Bloque - Sin título - El widget ya existe
+Bloque - Sin título - El widget ya existe
+Bloque - Sin título - El widget ya existe
+Bloque - Sin título - El widget ya existe
+Bloque - Sin título - El widget ya existe
+Bloque - Sin título - El widget ya existe
+Bloque - Sin título - El widget ya existe
+
+Área de widget superior de la página de inicio : 
+
+TF: Productos - Sin título - El widget ya existe
+
+Barra lateral de WooCommerce : 
+
+Ajax Product Search - Sin título - El widget ya existe
+Bloque - Sin título - El widget ya existe
+Filtrar productos por atributo - Filter by Color - El widget ya existe
+Bloque - Sin título - El widget ya existe
+Bloque - Sin título - El widget ya existe
+Bloque - Sin título - El widget ya existe
+Filtrar productos por atributo - Filter by Brands - El widget ya existe
+Filtrar productos por atributo - Filter by Size - El widget ya existe
+Bloque - Sin título - El widget ya existe
+
+Barra lateral del producto : 
+
+Imagen - Sin título - El widget ya existe
+Lista de productos vistos recientemente - Recently Viewed Products - El widget ya existe
+Wishlist - Wishlist - El widget ya existe
+Nube de etiquetas de productos - Product tags - El widget ya existe
+
+Área de widgets de producto de la página de inicio : 
+
+TF: Productos - Latest Products - El widget ya existe
+TF: Productos - Featured Products - El widget ya existe
+TF: Productos - On-Sale Products - El widget ya existe
+
+Columna del área de widgets de producto de la página de inicio : 
+
+Lista de productos - Highest selling - El widget ya existe
+Lista de productos - Random Products - El widget ya existe
+Lista de productos - Lowest Price - El widget ya existe
+Lista de productos - Highest Price - El widget ya existe
+
+Columna 1 del área de widget de pie de página : 
+
+Bloque - Sin título - El widget ya existe
+Bloque - Sin título - El widget ya existe
+Bloque - Sin título - El widget ya existe
+
+Columna 2 del área de widget de pie de página : 
+
+Menú de navegación - Site Links - El widget ya existe
+
+Columna 3 del área de widget de pie de página : 
+
+Bloque - Sin título - El widget ya existe
+
+Columna 4 del área de widget de pie de página : 
+
+Imagen - Sin título - El widget ya existe
+Imagen - Sin título - El widget ya existe
+
+
+
+---Importación de los ajustes del personalizador---
+¡Importación de los ajustes del personalizador finalizado!
+
+---ocdi/after_import---
+To make changes on Front Page go to Appearance -&gt; Customize
